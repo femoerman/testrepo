@@ -1,2 +1,3 @@
 variant master master
 variant test test
+variant all
