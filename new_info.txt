@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-master
-=======
-experimental
->>>>>>> experimental_2
